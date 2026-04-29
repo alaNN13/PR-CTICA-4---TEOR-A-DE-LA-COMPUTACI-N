@@ -2,7 +2,9 @@
 
 ## About The Project
 
-[cite_start]This repository contains the software extension developed for Practice 4 of the Theory of Computation course at ESCOM[cite: 3, 8, 9]. [cite_start]The project extends the interactive software developed in previous practices to implement the algorithmic conversion of Deterministic Finite Automata (DFA) to Regular Expressions (RE)[cite: 11, 14]. [cite_start]Additionally, it explores the theoretical and practical applications of regular expressions for data validation[cite: 10, 16].
+This repository contains the software extension developed for Practice 4 of the Theory of Computation course at ESCOM. 
+The project extends the interactive software developed in previous practices to implement the algorithmic conversion of Deterministic Finite Automata (DFA) to Regular Expressions (RE). 
+Additionally, it explores the theoretical and practical applications of regular expressions for data validation
 
 ## Authors
 
@@ -11,10 +13,10 @@
 
 ## Core Features
 
-* [cite_start]**DFA to RE Conversion:** Implements the state elimination algorithm, displaying the process interactively step-by-step until generating a clear and readable Regular Expression[cite: 38, 47, 48].
-* [cite_start]**JFLAP Integration:** Includes functionality to import, parse, and validate automata files (`.jff`) created in JFLAP[cite: 51, 52, 53].
-* [cite_start]**Practical Regex Validators:** Applies regular expressions to solve practical problems [cite: 70][cite_start], featuring validators for Email addresses, National Phone Numbers, and Secure Passwords[cite: 73, 74, 77].
-* [cite_start]**Equivalent DFA Visualization:** Allows users to understand the underlying logic of the regular expressions by displaying their equivalent DFA structure[cite: 86].
+* **DFA to RE Conversion:** Implements the state elimination algorithm, displaying the process interactively step-by-step until generating a clear and readable Regular Expression.
+* **JFLAP Integration:** Includes functionality to import, parse, and validate automata files (`.jff`) created in JFLAP.
+* **Practical Regex Validators:** Applies regular expressions to solve practical problems , featuring validators for Email addresses, National Phone Numbers, and Secure Passwords.
+* **Equivalent DFA Visualization:** Allows users to understand the underlying logic of the regular expressions by displaying their equivalent DFA structure.
 * **Core Automata Engine (Legacy):** Maintains full backward compatibility with NFA/NFA-λ Simulation, Subset Construction (NFA to DFA), Hopcroft's Minimization, and Batch Testing.
 
 ## Getting Started
