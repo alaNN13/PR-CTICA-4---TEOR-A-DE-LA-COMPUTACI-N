@@ -28,9 +28,10 @@ To run this application locally, you will need **Python 3.x** installed on your 
 ### Execution Instructions
 
 1. Clone the repository to your local machine:
-```bash
+   ```bash
 git clone [https://github.com/alaNN13/PR-CTICA-4---TEOR-A-DE-LA-COMPUTACI-N.git](https://github.com/alaNN13/PR-CTICA-4---TEOR-A-DE-LA-COMPUTACI-N.git)
 
-2. Navigate to the project directory and execute the main file:
+
+3. Navigate to the project directory and execute the main file:
 
 python mainp4.py
